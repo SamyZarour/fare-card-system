@@ -1,0 +1,15 @@
+{
+    "name": "fare-card-system",
+    "version": "1.0.0",
+    "description": "A fare card system implemented in TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc index.ts && node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "ts-node": "^10.9.1",
+        "typescript": "^5.1.6"
+    }
+}
